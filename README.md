@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mustafa Atik
 - 👀 I’m interested in SDET and QA
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GitHub
+- 💞️ I’m looking to collaborate on Cydeo
 
 
 <!---
